@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/grohe", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/grohe-set-aus-einbauspuele-und-kuechenarmatur-edelstahl-grohe-8080194-1.jpg":"\u002Fassets\u002Fimages\u002Fgrohe-set-aus-einbauspuele-und-kuechenarmatur-edelstahl-grohe-8080194-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/sanitop-wingenroth", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/sanitop-wingenroth-ventiloberteil-fuer-siebkorbventile-verchromt-sanitop-wingenroth-7148935-1.jpg":"\u002Fassets\u002Fimages\u002Fsanitop-wingenroth-ventiloberteil-fuer-siebkorbventile-verchromt-sanitop-wingenroth-7148935-1.webp"}}],fetch:{},mutations:void 0});
