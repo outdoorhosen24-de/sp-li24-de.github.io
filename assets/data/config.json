@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "sp\u00fcli24.de",
+    "hostname": "https://www.sp\u00fcli24.de/",
+    "email": "sp\u00fcli24.desurrealnetworks.io",
+    "organization": "sp\u00fcli24.de",
+    "logoText": "Sp\u00fcli24.de",
+    "title": "Sp\u00fclen & Sp\u00fclbecken",
+    "subline": "Der Online Shop f\u00fcr Sp\u00fclen & Sp\u00fclbecken",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "8678922",
+        "8080194",
+        "7191117",
+        "1393099",
+        "7191364",
+        "7191604"
+    ],
+    "winnerProducts": [
+        "7191596",
+        "8446072",
+        "4002077"
+    ],
+    "featuredCategories": [
+        "Edelstahlsp\u00fclen",
+        "Glassp\u00fclen",
+        "Keramiksp\u00fclen",
+        "Glassp\u00fclen",
+        "Edelstahlsp\u00fclen",
+        "Zubeh\u00f6r f\u00fcr Sp\u00fclen"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Sp\u00fclen & Sp\u00fclbecken",
-        "featureText": "Your featured text goes here",
+        "featureText": "Die Sp\u00fclen und Sp\u00fclbecken im Shop sind aus hochwertigem Material und sehr langlebig. Die Auswahl ist sehr gro\u00df und die Preise sind fair.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Sp\u00fclen & Sp\u00fclbecken - Die besten Auswahl in der Stadt!",
+            "metaDescription": "Sp\u00fclen & Sp\u00fclbecken - Die beste Auswahl an Sp\u00fclen und Sp\u00fclbecken f\u00fcr Ihr Zuhause. Top Qualit\u00e4t zu g\u00fcnstigen Preisen.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Sp\u00fclen & Sp\u00fclbecken: Die besten Tipps f\u00fcr die Reinigung",
+                    "text": "Die Sp\u00fcle ist ein unverzichtbares Element in jeder K\u00fcche. Sie dient zum Waschen von Geschirr und Lebensmitteln und ist daher einer der am meisten genutzten Bereiche in der K\u00fcche. Die Auswahl der richtigen Sp\u00fcle ist daher von entscheidender Bedeutung.\n\nDie erste Frage, die Sie sich stellen sollten, ist, ob Sie eine Unterbau- oder eine Deckmontage-Sp\u00fcle w\u00fcnschen. Unterbau-Sp\u00fclen werden unter der Arbeitsplatte montiert und sind in der Regel g\u00fcnstiger. Deckmontage-Sp\u00fclen werden an der Arbeitsplatte befestigt und bieten in der Regel mehr Platz.\n\nDie zweite Frage, die Sie sich stellen sollten, ist, welches Material Sie w\u00fcnschen. Die h\u00e4ufigsten Materialien f\u00fcr Sp\u00fclen sind Edelstahl, Keramik und Granit. Jedes Material hat seine Vor- und Nachteile. Edelstahl ist langlebig, pflegeleicht und erschwinglich, aber es kann Kratzer und Flecken anziehen. Keramik ist langlebig, pflegeleicht und hygienisch, aber es ist auch empfindlich gegen Kratzer und Flecken. Granit ist langlebig, pflegeleicht, hygienisch und best\u00e4ndig gegen Kratzer und Flecken, aber es ist auch teurer.\n\nDie dritte Frage, die Sie sich stellen sollten, ist, welche Form Sie w\u00fcnschen. Die h\u00e4ufigsten Formen f\u00fcr Sp\u00fclen sind rechteckig, oval und rund. Jede Form hat ihre Vor- und Nachteile. Rechteckige Sp\u00fclen bieten in der Regel mehr Platz, sind aber"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Sp\u00fclen & Sp\u00fclbecken Shop",
+            "metaDescription": "Der Shop bietet Sp\u00fclen und Sp\u00fclbecken f\u00fcr jeden Geschmack und Geldbeutel. Vom einfachen Waschbecken bis zur Luxus-Sp\u00fcle ist alles dabei.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Sp\u00fclen & Sp\u00fclbecken Hersteller",
+            "metaDescription": "Sp\u00fclen & Sp\u00fclbecken - Finden Sie hier die passende Sp\u00fcle f\u00fcr Ihre K\u00fcche. W\u00e4hlen Sie aus unserer gro\u00dfen Auswahl an Sp\u00fclen & Sp\u00fclbecken von Top-Marken.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT Sp\u00fclen & Sp\u00fclbecken",
+        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Sp\u00fclen & Sp\u00fclbecken f\u00fcr Ihr Zuhause. Finden Sie die passende Sp\u00fcle f\u00fcr Ihre K\u00fcche bei uns. $KATEGORIE",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$KATEGORIE: Sp\u00fclen & Sp\u00fclbecken",
+        "defaultMetaDescription": "$KATEGORIE: Sp\u00fclen & Sp\u00fclbecken f\u00fcr die K\u00fcche. Auswahl an verschiedenen Modellen f\u00fcr jeden Geschmack. Finde die perfekte Sp\u00fcle f\u00fcr deine K\u00fcche!",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER Sp\u00fclen & Sp\u00fclbecken: Finde die perfekte Sp\u00fcle f\u00fcr deine K\u00fcche. Gro\u00dfe Auswahl an unterschiedlichen Modellen in verschiedenen Gr\u00f6\u00dfen.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Sp\u00fclen & Sp\u00fclbecken",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Sp\u00fclen & Sp\u00fclbecken Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Sp\u00fclen & Sp\u00fclbecken Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
