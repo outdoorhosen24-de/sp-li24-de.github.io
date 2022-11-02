@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
-    "domain": "sp\u00fcli24.de",
-    "hostname": "https://www.sp\u00fcli24.de/",
-    "email": "sp\u00fcli24.desurrealnetworks.io",
-    "organization": "sp\u00fcli24.de",
-    "logoText": "Sp\u00fcli24.de",
-    "title": "Sp\u00fclen & Sp\u00fclbecken",
-    "subline": "Der Online Shop f\u00fcr Sp\u00fclen & Sp\u00fclbecken",
+    "configIsReady": false,
+    "domain": "spüli24.de",
+    "hostname": "https://www.spüli24.de/",
+    "email": "spüli24.desurrealnetworks.io",
+    "organization": "spüli24.de",
+    "logoText": "Spüli24.de",
+    "title": "Spülen & Spülbecken",
+    "subline": "Der Online Shop für Spülen & Spülbecken",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -28,12 +28,12 @@
         "4002077"
     ],
     "featuredCategories": [
-        "Edelstahlsp\u00fclen",
-        "Glassp\u00fclen",
-        "Keramiksp\u00fclen",
-        "Glassp\u00fclen",
-        "Edelstahlsp\u00fclen",
-        "Zubeh\u00f6r f\u00fcr Sp\u00fclen"
+        "Edelstahlspülen",
+        "Glasspülen",
+        "Keramikspülen",
+        "Glasspülen",
+        "Edelstahlspülen",
+        "Zubehör für Spülen"
     ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
@@ -45,49 +45,49 @@
     ],
     "seo": {
         "htmlLang": "de",
-        "mainKeyword": "Sp\u00fclen & Sp\u00fclbecken",
-        "featureText": "Die Sp\u00fclen und Sp\u00fclbecken im Shop sind aus hochwertigem Material und sehr langlebig. Die Auswahl ist sehr gro\u00df und die Preise sind fair.",
+        "mainKeyword": "Spülen & Spülbecken",
+        "featureText": "Die Spülen und Spülbecken im Shop sind aus hochwertigem Material und sehr langlebig. Die Auswahl ist sehr groß und die Preise sind fair.",
         "index": {
-            "title": "Sp\u00fclen & Sp\u00fclbecken - Die besten Auswahl in der Stadt!",
-            "metaDescription": "Sp\u00fclen & Sp\u00fclbecken - Die beste Auswahl an Sp\u00fclen und Sp\u00fclbecken f\u00fcr Ihr Zuhause. Top Qualit\u00e4t zu g\u00fcnstigen Preisen.",
+            "title": "Spülen & Spülbecken - Die besten Auswahl in der Stadt!",
+            "metaDescription": "Spülen & Spülbecken - Die beste Auswahl an Spülen und Spülbecken für Ihr Zuhause. Top Qualität zu günstigen Preisen.",
             "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Sp\u00fclen & Sp\u00fclbecken: Die besten Tipps f\u00fcr die Reinigung",
-                    "text": "Die Sp\u00fcle ist ein unverzichtbares Element in jeder K\u00fcche. Sie dient zum Waschen von Geschirr und Lebensmitteln und ist daher einer der am meisten genutzten Bereiche in der K\u00fcche. Die Auswahl der richtigen Sp\u00fcle ist daher von entscheidender Bedeutung.\n\nDie erste Frage, die Sie sich stellen sollten, ist, ob Sie eine Unterbau- oder eine Deckmontage-Sp\u00fcle w\u00fcnschen. Unterbau-Sp\u00fclen werden unter der Arbeitsplatte montiert und sind in der Regel g\u00fcnstiger. Deckmontage-Sp\u00fclen werden an der Arbeitsplatte befestigt und bieten in der Regel mehr Platz.\n\nDie zweite Frage, die Sie sich stellen sollten, ist, welches Material Sie w\u00fcnschen. Die h\u00e4ufigsten Materialien f\u00fcr Sp\u00fclen sind Edelstahl, Keramik und Granit. Jedes Material hat seine Vor- und Nachteile. Edelstahl ist langlebig, pflegeleicht und erschwinglich, aber es kann Kratzer und Flecken anziehen. Keramik ist langlebig, pflegeleicht und hygienisch, aber es ist auch empfindlich gegen Kratzer und Flecken. Granit ist langlebig, pflegeleicht, hygienisch und best\u00e4ndig gegen Kratzer und Flecken, aber es ist auch teurer.\n\nDie dritte Frage, die Sie sich stellen sollten, ist, welche Form Sie w\u00fcnschen. Die h\u00e4ufigsten Formen f\u00fcr Sp\u00fclen sind rechteckig, oval und rund. Jede Form hat ihre Vor- und Nachteile. Rechteckige Sp\u00fclen bieten in der Regel mehr Platz, sind aber"
+                    "title": "Spülen & Spülbecken: Die besten Tipps für die Reinigung",
+                    "text": "Die Spüle ist ein unverzichtbares Element in jeder Küche. Sie dient zum Waschen von Geschirr und Lebensmitteln und ist daher einer der am meisten genutzten Bereiche in der Küche. Die Auswahl der richtigen Spüle ist daher von entscheidender Bedeutung.\n\nDie erste Frage, die Sie sich stellen sollten, ist, ob Sie eine Unterbau- oder eine Deckmontage-Spüle wünschen. Unterbau-Spülen werden unter der Arbeitsplatte montiert und sind in der Regel günstiger. Deckmontage-Spülen werden an der Arbeitsplatte befestigt und bieten in der Regel mehr Platz.\n\nDie zweite Frage, die Sie sich stellen sollten, ist, welches Material Sie wünschen. Die häufigsten Materialien für Spülen sind Edelstahl, Keramik und Granit. Jedes Material hat seine Vor- und Nachteile. Edelstahl ist langlebig, pflegeleicht und erschwinglich, aber es kann Kratzer und Flecken anziehen. Keramik ist langlebig, pflegeleicht und hygienisch, aber es ist auch empfindlich gegen Kratzer und Flecken. Granit ist langlebig, pflegeleicht, hygienisch und beständig gegen Kratzer und Flecken, aber es ist auch teurer.\n\nDie dritte Frage, die Sie sich stellen sollten, ist, welche Form Sie wünschen. Die häufigsten Formen für Spülen sind rechteckig, oval und rund. Jede Form hat ihre Vor- und Nachteile. Rechteckige Spülen bieten in der Regel mehr Platz, sind aber"
                 }
             ]
         },
         "shop": {
-            "title": "Sp\u00fclen & Sp\u00fclbecken Shop",
-            "metaDescription": "Der Shop bietet Sp\u00fclen und Sp\u00fclbecken f\u00fcr jeden Geschmack und Geldbeutel. Vom einfachen Waschbecken bis zur Luxus-Sp\u00fcle ist alles dabei.",
+            "title": "Spülen & Spülbecken Shop",
+            "metaDescription": "Der Shop bietet Spülen und Spülbecken für jeden Geschmack und Geldbeutel. Vom einfachen Waschbecken bis zur Luxus-Spüle ist alles dabei.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Sp\u00fclen & Sp\u00fclbecken Hersteller",
-            "metaDescription": "Sp\u00fclen & Sp\u00fclbecken - Finden Sie hier die passende Sp\u00fcle f\u00fcr Ihre K\u00fcche. W\u00e4hlen Sie aus unserer gro\u00dfen Auswahl an Sp\u00fclen & Sp\u00fclbecken von Top-Marken.",
+            "title": "Spülen & Spülbecken Hersteller",
+            "metaDescription": "Spülen & Spülbecken - Finden Sie hier die passende Spüle für Ihre Küche. Wählen Sie aus unserer großen Auswahl an Spülen & Spülbecken von Top-Marken.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT Sp\u00fclen & Sp\u00fclbecken",
-        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Sp\u00fclen & Sp\u00fclbecken f\u00fcr Ihr Zuhause. Finden Sie die passende Sp\u00fcle f\u00fcr Ihre K\u00fcche bei uns. $KATEGORIE",
+        "defaultTitle": "$PRODUKT Spülen & Spülbecken",
+        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Spülen & Spülbecken für Ihr Zuhause. Finden Sie die passende Spüle für Ihre Küche bei uns. $KATEGORIE",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Sp\u00fclen & Sp\u00fclbecken",
-        "defaultMetaDescription": "$KATEGORIE: Sp\u00fclen & Sp\u00fclbecken f\u00fcr die K\u00fcche. Auswahl an verschiedenen Modellen f\u00fcr jeden Geschmack. Finde die perfekte Sp\u00fcle f\u00fcr deine K\u00fcche!",
+        "defaultTitle": "$KATEGORIE: Spülen & Spülbecken",
+        "defaultMetaDescription": "$KATEGORIE: Spülen & Spülbecken für die Küche. Auswahl an verschiedenen Modellen für jeden Geschmack. Finde die perfekte Spüle für deine Küche!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER Sp\u00fclen & Sp\u00fclbecken: Finde die perfekte Sp\u00fcle f\u00fcr deine K\u00fcche. Gro\u00dfe Auswahl an unterschiedlichen Modellen in verschiedenen Gr\u00f6\u00dfen.",
+        "defaultMetaDescription": "$HERSTELLER Spülen & Spülbecken: Finde die perfekte Spüle für deine Küche. Große Auswahl an unterschiedlichen Modellen in verschiedenen Größen.",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
@@ -132,19 +132,19 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Sp\u00fclen & Sp\u00fclbecken",
+            "linkTitle": "Spülen & Spülbecken",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Sp\u00fclen & Sp\u00fclbecken Shop",
+            "linkTitle": "Spülen & Spülbecken Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Sp\u00fclen & Sp\u00fclbecken Marken",
+            "linkTitle": "Spülen & Spülbecken Marken",
             "publish": true
         },
         {
