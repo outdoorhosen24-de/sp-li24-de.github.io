@@ -51,12 +51,15 @@
             "title": "Spülen & Spülbecken - Die besten Auswahl in der Stadt!",
             "metaDescription": "Spülen & Spülbecken - Die beste Auswahl an Spülen und Spülbecken für Ihr Zuhause. Top Qualität zu günstigen Preisen.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Spülen & Spülbecken: Die besten Tipps für die Reinigung",
-                    "text": "Die Spüle ist ein unverzichtbares Element in jeder Küche. Sie dient zum Waschen von Geschirr und Lebensmitteln und ist daher einer der am meisten genutzten Bereiche in der Küche. Die Auswahl der richtigen Spüle ist daher von entscheidender Bedeutung.\n\nDie erste Frage, die Sie sich stellen sollten, ist, ob Sie eine Unterbau- oder eine Deckmontage-Spüle wünschen. Unterbau-Spülen werden unter der Arbeitsplatte montiert und sind in der Regel günstiger. Deckmontage-Spülen werden an der Arbeitsplatte befestigt und bieten in der Regel mehr Platz.\n\nDie zweite Frage, die Sie sich stellen sollten, ist, welches Material Sie wünschen. Die häufigsten Materialien für Spülen sind Edelstahl, Keramik und Granit. Jedes Material hat seine Vor- und Nachteile. Edelstahl ist langlebig, pflegeleicht und erschwinglich, aber es kann Kratzer und Flecken anziehen. Keramik ist langlebig, pflegeleicht und hygienisch, aber es ist auch empfindlich gegen Kratzer und Flecken. Granit ist langlebig, pflegeleicht, hygienisch und beständig gegen Kratzer und Flecken, aber es ist auch teurer.\n\nDie dritte Frage, die Sie sich stellen sollten, ist, welche Form Sie wünschen. Die häufigsten Formen für Spülen sind rechteckig, oval und rund. Jede Form hat ihre Vor- und Nachteile. Rechteckige Spülen bieten in der Regel mehr Platz, sind aber"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Spülen & Spülbecken: Die besten Tipps für die Reinigung",
+                        "text": "Die Spüle ist ein unverzichtbares Element in jeder Küche. Sie dient zum Waschen von Geschirr und Lebensmitteln und ist daher einer der am meisten genutzten Bereiche in der Küche. Die Auswahl der richtigen Spüle ist daher von entscheidender Bedeutung.\n\nDie erste Frage, die Sie sich stellen sollten, ist, ob Sie eine Unterbau- oder eine Deckmontage-Spüle wünschen. Unterbau-Spülen werden unter der Arbeitsplatte montiert und sind in der Regel günstiger. Deckmontage-Spülen werden an der Arbeitsplatte befestigt und bieten in der Regel mehr Platz.\n\nDie zweite Frage, die Sie sich stellen sollten, ist, welches Material Sie wünschen. Die häufigsten Materialien für Spülen sind Edelstahl, Keramik und Granit. Jedes Material hat seine Vor- und Nachteile. Edelstahl ist langlebig, pflegeleicht und erschwinglich, aber es kann Kratzer und Flecken anziehen. Keramik ist langlebig, pflegeleicht und hygienisch, aber es ist auch empfindlich gegen Kratzer und Flecken. Granit ist langlebig, pflegeleicht, hygienisch und beständig gegen Kratzer und Flecken, aber es ist auch teurer.\n\nDie dritte Frage, die Sie sich stellen sollten, ist, welche Form Sie wünschen. Die häufigsten Formen für Spülen sind rechteckig, oval und rund. Jede Form hat ihre Vor- und Nachteile. Rechteckige Spülen bieten in der Regel mehr Platz, sind aber"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Spülen & Spülbecken Shop",
