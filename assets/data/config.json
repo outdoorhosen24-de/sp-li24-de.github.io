@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "spüli24.de",
     "hostname": "https://www.spüli24.de/",
     "email": "spüli24.de@surrealnetworks.io",
     "organization": "spüli24.de",
     "logoText": "Spüli24.de",
-    "title": "Spülen & Spülbecken",
-    "subline": "Der Online Shop für Spülen & Spülbecken",
+    "title": "Spülen & Spülbecken Shop",
+    "subline": "Dein Online Shop für Spülen & Spülbecken",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Spülen & Spülbecken",
-        "featureText": "Die Spülen und Spülbecken im Shop sind aus hochwertigem Material und sehr langlebig. Die Auswahl ist sehr groß und die Preise sind fair.",
+        "featureText": "Herzlich willkommen! Wir von Spüli24.de freuen uns, dir unser Sortiment an Spülen vorstellen zu dürfen. Durch unsere große Auswahl bieten wir dir beispielweise Keramikspülen, Edelstahlspülen, Granitspülen oder auch Glasspülen. Zudem führen wir auch Zubehör für Spülen. So machen wir deinen Abwasch zu einem einzigartigen Erlebnis!",
         "index": {
-            "title": "Spülen & Spülbecken - Die besten Auswahl in der Stadt!",
-            "metaDescription": "Spülen & Spülbecken - Die beste Auswahl an Spülen und Spülbecken für Ihr Zuhause. Top Qualität zu günstigen Preisen.",
+            "title": "Spüli24.de - hochwertige Spülen zum fairen Preis",
+            "metaDescription": "Wir bieten nicht nur Zubehör für Spülen, sondern auch eine große Auswahl an Keramikspülen, Edelstahlspülen, Granitspülen oder Glasspülen von den Top Marken.",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Spülen & Spülbecken Shop",
-            "metaDescription": "Der Shop bietet Spülen und Spülbecken für jeden Geschmack und Geldbeutel. Vom einfachen Waschbecken bis zur Luxus-Spüle ist alles dabei.",
+            "title": "Spüli24.de - Dein Shop für Spülen & Spülbecken",
+            "metaDescription": "In unserem Shop findest du nicht nur Zubehör für Spülen, sondern auch die besten Keramikspülen, Edelstahlspülen, Granitspülen oder Glasspülen.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Spülen & Spülbecken Hersteller",
-            "metaDescription": "Spülen & Spülbecken - Finden Sie hier die passende Spüle für Ihre Küche. Wählen Sie aus unserer großen Auswahl an Spülen & Spülbecken von Top-Marken.",
+            "title": "Die Top Marken für Spülen",
+            "metaDescription": "Mit unseren Top Marken wie Villeroy & Boch, Grohe, Eurodomo, Respekta, Küchenfreund, OBI, Pyramis oder Wenko finden wir die perfekte Spüle für deine Küche.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT Spülen & Spülbecken",
-        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Spülen & Spülbecken für Ihr Zuhause. Finden Sie die passende Spüle für Ihre Küche bei uns. $KATEGORIE",
+        "defaultTitle": "$PRODUKT | Spüli24.de",
+        "defaultMetaDescription": "Wir bieten dir $PRODUKT aus der Kategorie $KATEGORIE von unserer Top Marke $HERSTELLER. Finde die Spüle für deine Küche. ",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Spülen & Spülbecken",
-        "defaultMetaDescription": "$KATEGORIE: Spülen & Spülbecken für die Küche. Auswahl an verschiedenen Modellen für jeden Geschmack. Finde die perfekte Spüle für deine Küche!",
+        "defaultTitle": "Hochwertige $KATEGORIE zum fairen Preis",
+        "defaultMetaDescription": "Finde jetzt bei uns hochwertige $KATEGORIE zu einem fairen Preis und mache so deinen Abwasch zu einem einzigartigen Erlebnis.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER Spülen & Spülbecken: Finde die perfekte Spüle für deine Küche. Große Auswahl an unterschiedlichen Modellen in verschiedenen Größen.",
+        "defaultTitle": "Spülen & Spülbecken von $HERSTELLER",
+        "defaultMetaDescription": "In unserem Sortiment bieten wir dir eine große Auswahl an hochwertigen Spülen und Spülbecken von Top Marken wie zum Beispiel $HERSTELLER.",
         "defaultRobots": "index, follow",
         "brands": [
             {
