@@ -52,11 +52,31 @@
             "metaDescription": "Wir bieten nicht nur Zubehör für Spülen, sondern auch eine große Auswahl an Keramikspülen, Edelstahlspülen, Granitspülen oder Glasspülen von den Top Marken.",
             "robots": "index, follow",
             "seotext": {
-                "published": false,
+                "published": true,
                 "content": [
                     {
-                        "title": "Spülen & Spülbecken: Die besten Tipps für die Reinigung",
-                        "text": "Die Spüle ist ein unverzichtbares Element in jeder Küche. Sie dient zum Waschen von Geschirr und Lebensmitteln und ist daher einer der am meisten genutzten Bereiche in der Küche. Die Auswahl der richtigen Spüle ist daher von entscheidender Bedeutung.\n\nDie erste Frage, die Sie sich stellen sollten, ist, ob Sie eine Unterbau- oder eine Deckmontage-Spüle wünschen. Unterbau-Spülen werden unter der Arbeitsplatte montiert und sind in der Regel günstiger. Deckmontage-Spülen werden an der Arbeitsplatte befestigt und bieten in der Regel mehr Platz.\n\nDie zweite Frage, die Sie sich stellen sollten, ist, welches Material Sie wünschen. Die häufigsten Materialien für Spülen sind Edelstahl, Keramik und Granit. Jedes Material hat seine Vor- und Nachteile. Edelstahl ist langlebig, pflegeleicht und erschwinglich, aber es kann Kratzer und Flecken anziehen. Keramik ist langlebig, pflegeleicht und hygienisch, aber es ist auch empfindlich gegen Kratzer und Flecken. Granit ist langlebig, pflegeleicht, hygienisch und beständig gegen Kratzer und Flecken, aber es ist auch teurer.\n\nDie dritte Frage, die Sie sich stellen sollten, ist, welche Form Sie wünschen. Die häufigsten Formen für Spülen sind rechteckig, oval und rund. Jede Form hat ihre Vor- und Nachteile. Rechteckige Spülen bieten in der Regel mehr Platz, sind aber"
+                        "title": "Willkommen bei spüli24.de - Ihrem Online-Shop für Spülen und Spülbecken",
+                        "text": "Sie suchen nach einem neuen Spülbecken für Ihre Küche? Dann sind Sie bei uns genau richtig! Als Spezialist für Spülen und Spülbecken bieten wir Ihnen eine breite Auswahl an Produkten in verschiedenen Materialien und Designs. Ob Sie eine edelstahlspüle, eine keramikspüle oder eine granitspüle bevorzugen, bei uns werden Sie garantiert fündig. Darüber hinaus bieten wir Ihnen auch das passende Zubehör für Ihre Spüle, egal ob Sie einen neuen Abfluss, eine neue Armatur oder andere Accessoires benötigen. Stöbern Sie jetzt in unserem Online-Shop und entdecken Sie unsere vielfältigen Angebote!"
+                    },
+                    {
+                        "title": "Keramikspülen",
+                        "text": "Entdecken Sie die große Auswahl an <a href=\"/kategorie/keramikspuelen/\" title=\"Keramikspülen\">Keramikspülen</a> bei Spüli24. Unsere Keramikspülen zeichnen sich durch ihre Langlebigkeit und Robustheit aus. Ob rund, oval oder eckig, wir bieten Ihnen eine breite Palette an Formen und Größen, um Ihre Küche nach Ihren Wünschen zu gestalten. Mit einer Keramikspüle von Spüli24 erhalten Sie ein zeitloses und pflegeleichtes Produkt, das Ihnen lange Freude bereiten wird."
+                    },
+                    {
+                        "title": "Edelstahlspülen",
+                        "text": "Erleben Sie die moderne Eleganz von <a href=\"/kategorie/edelstahlspuelen/\" title=\"Edelstahlspülen\">Edelstahlspülen</a> bei Spüli24. Unsere Edelstahlspülen sind robust, langlebig und pflegeleicht. Dank ihres zeitlosen Designs passen sie perfekt in jede Küche und bieten Ihnen eine hygienische und funktionale Arbeitsfläche. Stöbern Sie in unserem Sortiment und finden Sie die perfekte Edelstahlspüle für Ihre Küche."
+                    },
+                    {
+                        "title": "Granitspülen",
+                        "text": "Entdecken Sie die vielfältigen Möglichkeiten von <a href=\"/kategorie/granitspuelen/\" title=\"Granitspülen\">Granitspülen</a> bei Spüli24. Unsere Granitspülen sind robust, langlebig und pflegeleicht. Mit ihrem zeitlosen Design und ihrer edlen Optik bieten sie Ihnen eine hygienische und funktionale Arbeitsfläche. Wählen Sie aus einer breiten Palette an Farben und Formen, um Ihre Küche nach Ihren Wünschen zu gestalten."
+                    },
+                    {
+                        "title": "Zubehör für Spülen",
+                        "text": "In unserer Kategorie '<a href=\"/kategorie/zubehoer-fuer-spuelen/\" title=\"Zubehör für Spülen\">Zubehör für Spülen</a>' finden Sie alles, was Sie für die perfekte Instandhaltung und Reinigung Ihrer Spüle benötigen. Hier finden Sie Reinigungsmittel, Abflussrohre, Armaturen und vieles mehr. Alle Produkte sind hochwertig und langlebig, damit Sie lange Freude an Ihrer Spüle haben. Stöbern Sie jetzt durch unser Sortiment und finden Sie das passende Zubehör für Ihre Spüle."
+                    },
+                    {
+                        "title": "Glasspülen",
+                        "text": "In unserer Kategorie '<a href=\"/kategorie/glasspuelen/\" title=\"Glasspülen\">Glasspülen</a>' finden Sie eine große Auswahl an hochwertigen Glasspülen in verschiedenen Größen und Farben. Alle Spülen sind langlebig und pflegeleicht, damit Sie lange Freude an Ihrer neuen Glasspüle haben. Unsere Glasspülen sind aus hochwertigem Glas gefertigt und bieten eine moderne und elegante Optik für Ihre Küche. Stöbern Sie jetzt durch unser Sortiment und finden Sie die perfekte Glasspüle für Ihre Küche."
                     }
                 ]
             }
