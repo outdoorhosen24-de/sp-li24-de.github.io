@@ -2,35 +2,35 @@
     {
         "key": "keramikspülen",
         "name": "Keramikspülen",
-        "slug": "keramikspulen",
+        "slug": "keramikspuelen",
         "productCategory": "Keramikspülen",
         "subCategories": []
     },
     {
         "key": "edelstahlspülen",
         "name": "Edelstahlspülen",
-        "slug": "edelstahlspulen",
+        "slug": "edelstahlspuelen",
         "productCategory": "Edelstahlspülen",
         "subCategories": []
     },
     {
         "key": "granitspülen",
         "name": "Granitspülen",
-        "slug": "granitspulen",
+        "slug": "granitspuelen",
         "productCategory": "Granitspülen",
         "subCategories": []
     },
     {
         "key": "zubehör für spülen",
         "name": "Zubehör für Spülen",
-        "slug": "zubehor-fur-spulen",
+        "slug": "zubehoer-fuer-spuelen",
         "productCategory": "Zubehör für Spülen",
         "subCategories": []
     },
     {
         "key": "glasspülen",
         "name": "Glasspülen",
-        "slug": "glasspulen",
+        "slug": "glasspuelen",
         "productCategory": "Glasspülen",
         "subCategories": []
     }
