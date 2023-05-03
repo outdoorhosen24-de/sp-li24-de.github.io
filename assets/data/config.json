@@ -1,12 +1,12 @@
 {
   "configIsReady": true,
-  "domain": "sp\u00fcli24.de",
-  "hostname": "https://www.sp\u00fcli24.de/",
-  "email": "sp\u00fcli24.de@surrealnetworks.io",
-  "organization": "sp\u00fcli24.de",
-  "logoText": "Sp\u00fcli24.de",
-  "title": "Sp\u00fclen & Sp\u00fclbecken Shop",
-  "subline": "Dein Online Shop f\u00fcr Sp\u00fclen & Sp\u00fclbecken",
+  "domain": "spüli24.de",
+  "hostname": "https://www.spüli24.de/",
+  "email": "spüli24.de@surrealnetworks.io",
+  "organization": "spüli24.de",
+  "logoText": "Spüli24.de",
+  "title": "Spülen & Spülbecken Shop",
+  "subline": "Dein Online Shop für Spülen & Spülbecken",
   "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
   "imageFolder": "/assets/images/images/",
   "productUrl": "/produkt/",
@@ -28,12 +28,12 @@
     "4002077"
   ],
   "featuredCategories": [
-    "Edelstahlsp\u00fclen",
-    "Glassp\u00fclen",
-    "Keramiksp\u00fclen",
-    "Glassp\u00fclen",
-    "Edelstahlsp\u00fclen",
-    "Zubeh\u00f6r f\u00fcr Sp\u00fclen"
+    "Edelstahlspülen",
+    "Glasspülen",
+    "Keramikspülen",
+    "Glasspülen",
+    "Edelstahlspülen",
+    "Zubehör für Spülen"
   ],
   "socialMediaAccounts": [],
   "imageQuality": 90,
@@ -45,65 +45,131 @@
   ],
   "seo": {
     "htmlLang": "de",
-    "mainKeyword": "Sp\u00fclen & Sp\u00fclbecken",
-    "featureText": "Herzlich willkommen! Wir von Sp\u00fcli24.de freuen uns, dir unser Sortiment an Sp\u00fclen vorstellen zu d\u00fcrfen. Durch unsere gro\u00dfe Auswahl bieten wir dir beispielweise Keramiksp\u00fclen, Edelstahlsp\u00fclen, Granitsp\u00fclen oder auch Glassp\u00fclen. Zudem f\u00fchren wir auch Zubeh\u00f6r f\u00fcr Sp\u00fclen. So machen wir deinen Abwasch zu einem einzigartigen Erlebnis!",
+    "mainKeyword": "Spülen & Spülbecken",
+    "featureText": "Herzlich willkommen! Wir von Spüli24.de freuen uns, dir unser Sortiment an Spülen vorstellen zu dürfen. Durch unsere große Auswahl bieten wir dir beispielweise Keramikspülen, Edelstahlspülen, Granitspülen oder auch Glasspülen. Zudem führen wir auch Zubehör für Spülen. So machen wir deinen Abwasch zu einem einzigartigen Erlebnis!",
     "index": {
-      "title": "Sp\u00fcli24.de - hochwertige Sp\u00fclen zum fairen Preis",
-      "metaDescription": "Wir bieten nicht nur Zubeh\u00f6r f\u00fcr Sp\u00fclen, sondern auch eine gro\u00dfe Auswahl an Keramiksp\u00fclen, Edelstahlsp\u00fclen, Granitsp\u00fclen oder Glassp\u00fclen von den Top Marken.",
+      "title": "Spüli24.de - hochwertige Spülen zum fairen Preis",
+      "metaDescription": "Wir bieten nicht nur Zubehör für Spülen, sondern auch eine große Auswahl an Keramikspülen, Edelstahlspülen, Granitspülen oder Glasspülen von den Top Marken.",
       "robots": "index, follow",
       "seotext": {
         "published": true,
         "content": [
           {
-            "title": "Willkommen bei sp\u00fcli24.de - Ihrem Online-Shop f\u00fcr Sp\u00fclen und Sp\u00fclbecken",
-            "text": "Sie suchen nach einem neuen Sp\u00fclbecken f\u00fcr Ihre K\u00fcche? Dann sind Sie bei uns genau richtig! Als Spezialist f\u00fcr Sp\u00fclen und Sp\u00fclbecken bieten wir Ihnen eine breite Auswahl an Produkten in verschiedenen Materialien und Designs. Ob Sie eine edelstahlsp\u00fcle, eine keramiksp\u00fcle oder eine granitsp\u00fcle bevorzugen, bei uns werden Sie garantiert f\u00fcndig. Dar\u00fcber hinaus bieten wir Ihnen auch das passende Zubeh\u00f6r f\u00fcr Ihre Sp\u00fcle, egal ob Sie einen neuen Abfluss, eine neue Armatur oder andere Accessoires ben\u00f6tigen. St\u00f6bern Sie jetzt in unserem Online-Shop und entdecken Sie unsere vielf\u00e4ltigen Angebote!"
+            "title": "Willkommen bei spüli24.de - Ihrem Online-Shop für Spülen und Spülbecken",
+            "text": "Sie suchen nach einem neuen Spülbecken für Ihre Küche? Dann sind Sie bei uns genau richtig! Als Spezialist für Spülen und Spülbecken bieten wir Ihnen eine breite Auswahl an Produkten in verschiedenen Materialien und Designs. Ob Sie eine edelstahlspüle, eine keramikspüle oder eine granitspüle bevorzugen, bei uns werden Sie garantiert fündig. Darüber hinaus bieten wir Ihnen auch das passende Zubehör für Ihre Spüle, egal ob Sie einen neuen Abfluss, eine neue Armatur oder andere Accessoires benötigen. Stöbern Sie jetzt in unserem Online-Shop und entdecken Sie unsere vielfältigen Angebote!"
           },
           {
-            "title": "Keramiksp\u00fclen",
-            "text": "Entdecken Sie die gro\u00dfe Auswahl an <a href=\"/kategorie/keramikspuelen/\" title=\"Keramiksp\u00fclen\">Keramiksp\u00fclen</a> bei Sp\u00fcli24. Unsere Keramiksp\u00fclen zeichnen sich durch ihre Langlebigkeit und Robustheit aus. Ob rund, oval oder eckig, wir bieten Ihnen eine breite Palette an Formen und Gr\u00f6\u00dfen, um Ihre K\u00fcche nach Ihren W\u00fcnschen zu gestalten. Mit einer Keramiksp\u00fcle von Sp\u00fcli24 erhalten Sie ein zeitloses und pflegeleichtes Produkt, das Ihnen lange Freude bereiten wird."
+            "title": "Keramikspülen",
+            "text": "Entdecken Sie die große Auswahl an <a href=\"/kategorie/keramikspuelen/\" title=\"Keramikspülen\">Keramikspülen</a> bei Spüli24. Unsere Keramikspülen zeichnen sich durch ihre Langlebigkeit und Robustheit aus. Ob rund, oval oder eckig, wir bieten Ihnen eine breite Palette an Formen und Größen, um Ihre Küche nach Ihren Wünschen zu gestalten. Mit einer Keramikspüle von Spüli24 erhalten Sie ein zeitloses und pflegeleichtes Produkt, das Ihnen lange Freude bereiten wird."
           },
           {
-            "title": "Edelstahlsp\u00fclen",
-            "text": "Erleben Sie die moderne Eleganz von <a href=\"/kategorie/edelstahlspuelen/\" title=\"Edelstahlsp\u00fclen\">Edelstahlsp\u00fclen</a> bei Sp\u00fcli24. Unsere Edelstahlsp\u00fclen sind robust, langlebig und pflegeleicht. Dank ihres zeitlosen Designs passen sie perfekt in jede K\u00fcche und bieten Ihnen eine hygienische und funktionale Arbeitsfl\u00e4che. St\u00f6bern Sie in unserem Sortiment und finden Sie die perfekte Edelstahlsp\u00fcle f\u00fcr Ihre K\u00fcche."
+            "title": "Edelstahlspülen",
+            "text": "Erleben Sie die moderne Eleganz von <a href=\"/kategorie/edelstahlspuelen/\" title=\"Edelstahlspülen\">Edelstahlspülen</a> bei Spüli24. Unsere Edelstahlspülen sind robust, langlebig und pflegeleicht. Dank ihres zeitlosen Designs passen sie perfekt in jede Küche und bieten Ihnen eine hygienische und funktionale Arbeitsfläche. Stöbern Sie in unserem Sortiment und finden Sie die perfekte Edelstahlspüle für Ihre Küche."
           },
           {
-            "title": "Granitsp\u00fclen",
-            "text": "Entdecken Sie die vielf\u00e4ltigen M\u00f6glichkeiten von <a href=\"/kategorie/granitspuelen/\" title=\"Granitsp\u00fclen\">Granitsp\u00fclen</a> bei Sp\u00fcli24. Unsere Granitsp\u00fclen sind robust, langlebig und pflegeleicht. Mit ihrem zeitlosen Design und ihrer edlen Optik bieten sie Ihnen eine hygienische und funktionale Arbeitsfl\u00e4che. W\u00e4hlen Sie aus einer breiten Palette an Farben und Formen, um Ihre K\u00fcche nach Ihren W\u00fcnschen zu gestalten."
+            "title": "Granitspülen",
+            "text": "Entdecken Sie die vielfältigen Möglichkeiten von <a href=\"/kategorie/granitspuelen/\" title=\"Granitspülen\">Granitspülen</a> bei Spüli24. Unsere Granitspülen sind robust, langlebig und pflegeleicht. Mit ihrem zeitlosen Design und ihrer edlen Optik bieten sie Ihnen eine hygienische und funktionale Arbeitsfläche. Wählen Sie aus einer breiten Palette an Farben und Formen, um Ihre Küche nach Ihren Wünschen zu gestalten."
           },
           {
-            "title": "Zubeh\u00f6r f\u00fcr Sp\u00fclen",
-            "text": "In unserer Kategorie '<a href=\"/kategorie/zubehoer-fuer-spuelen/\" title=\"Zubeh\u00f6r f\u00fcr Sp\u00fclen\">Zubeh\u00f6r f\u00fcr Sp\u00fclen</a>' finden Sie alles, was Sie f\u00fcr die perfekte Instandhaltung und Reinigung Ihrer Sp\u00fcle ben\u00f6tigen. Hier finden Sie Reinigungsmittel, Abflussrohre, Armaturen und vieles mehr. Alle Produkte sind hochwertig und langlebig, damit Sie lange Freude an Ihrer Sp\u00fcle haben. St\u00f6bern Sie jetzt durch unser Sortiment und finden Sie das passende Zubeh\u00f6r f\u00fcr Ihre Sp\u00fcle."
+            "title": "Zubehör für Spülen",
+            "text": "In unserer Kategorie '<a href=\"/kategorie/zubehoer-fuer-spuelen/\" title=\"Zubehör für Spülen\">Zubehör für Spülen</a>' finden Sie alles, was Sie für die perfekte Instandhaltung und Reinigung Ihrer Spüle benötigen. Hier finden Sie Reinigungsmittel, Abflussrohre, Armaturen und vieles mehr. Alle Produkte sind hochwertig und langlebig, damit Sie lange Freude an Ihrer Spüle haben. Stöbern Sie jetzt durch unser Sortiment und finden Sie das passende Zubehör für Ihre Spüle."
           },
           {
-            "title": "Glassp\u00fclen",
-            "text": "In unserer Kategorie '<a href=\"/kategorie/glasspuelen/\" title=\"Glassp\u00fclen\">Glassp\u00fclen</a>' finden Sie eine gro\u00dfe Auswahl an hochwertigen Glassp\u00fclen in verschiedenen Gr\u00f6\u00dfen und Farben. Alle Sp\u00fclen sind langlebig und pflegeleicht, damit Sie lange Freude an Ihrer neuen Glassp\u00fcle haben. Unsere Glassp\u00fclen sind aus hochwertigem Glas gefertigt und bieten eine moderne und elegante Optik f\u00fcr Ihre K\u00fcche. St\u00f6bern Sie jetzt durch unser Sortiment und finden Sie die perfekte Glassp\u00fcle f\u00fcr Ihre K\u00fcche."
+            "title": "Glasspülen",
+            "text": "In unserer Kategorie '<a href=\"/kategorie/glasspuelen/\" title=\"Glasspülen\">Glasspülen</a>' finden Sie eine große Auswahl an hochwertigen Glasspülen in verschiedenen Größen und Farben. Alle Spülen sind langlebig und pflegeleicht, damit Sie lange Freude an Ihrer neuen Glasspüle haben. Unsere Glasspülen sind aus hochwertigem Glas gefertigt und bieten eine moderne und elegante Optik für Ihre Küche. Stöbern Sie jetzt durch unser Sortiment und finden Sie die perfekte Glasspüle für Ihre Küche."
           }
         ]
       }
     },
     "shop": {
-      "title": "Sp\u00fcli24.de - Dein Shop f\u00fcr Sp\u00fclen & Sp\u00fclbecken",
-      "metaDescription": "In unserem Shop findest du nicht nur Zubeh\u00f6r f\u00fcr Sp\u00fclen, sondern auch die besten Keramiksp\u00fclen, Edelstahlsp\u00fclen, Granitsp\u00fclen oder Glassp\u00fclen.",
+      "title": "Spüli24.de - Dein Shop für Spülen & Spülbecken",
+      "metaDescription": "In unserem Shop findest du nicht nur Zubehör für Spülen, sondern auch die besten Keramikspülen, Edelstahlspülen, Granitspülen oder Glasspülen.",
       "robots": "index, follow"
     },
     "hersteller": {
-      "title": "Die Top Marken f\u00fcr Sp\u00fclen",
-      "metaDescription": "Mit unseren Top Marken wie Villeroy & Boch, Grohe, Eurodomo, Respekta, K\u00fcchenfreund, OBI, Pyramis oder Wenko finden wir die perfekte Sp\u00fcle f\u00fcr deine K\u00fcche.",
+      "title": "Die Top Marken für Spülen",
+      "metaDescription": "Mit unseren Top Marken wie Villeroy & Boch, Grohe, Eurodomo, Respekta, Küchenfreund, OBI, Pyramis oder Wenko finden wir die perfekte Spüle für deine Küche.",
       "robots": "index, follow"
     }
   },
   "productSeo": {
-    "defaultTitle": "$PRODUKT | Sp\u00fcli24.de",
-    "defaultMetaDescription": "Wir bieten dir $PRODUKT aus der Kategorie $KATEGORIE von unserer Top Marke $HERSTELLER. Finde die Sp\u00fcle f\u00fcr deine K\u00fcche. ",
+    "defaultTitle": "$PRODUKT | Spüli24.de",
+    "defaultMetaDescription": "Wir bieten dir $PRODUKT aus der Kategorie $KATEGORIE von unserer Top Marke $HERSTELLER. Finde die Spüle für deine Küche. ",
     "defaultRobots": "index, follow",
     "products": [
       {
         "sku": "5637909794",
         "name": "Ortovox PALA PANTS Kletterhose",
         "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
           "robots": "index, follow"
+        }
+      },
+      {
+        "sku": "7191596",
+        "seo": {
+          "texts": [
+            {
+              "title": "Küchenfreund Einbauspüle GN 102: Stilvolle Granit-Optik für Ihre Küche",
+              "text": "<p class=\"justify\">Die Küchenfreund Einbauspüle GN 102 Granite Iron Grey ist ein exzellentes Produkt für modern gestaltete Küchen und bietet Ihnen nicht nur Funktionalität, sondern auch ein zeitloses, ansprechendes Design. Diese Granitspüle zeichnet sich durch ihre geraden Linien und das qualitativ hochwertige Material aus. Die Pyragranitspüle GN 102 eignet sich ideal für Unterschränke ab 45 cm und benötigt aufgrund ihrer geringen Außenmaße und der kleinen Abtropffläche wenig Platz in der Arbeitsplatte. Somit bleibt genügend Raum für weitere Küchenutensilien und Zubehör.</p><p class=\"justify\">Die Küchenfreund Einbauspüle GN 102 verfügt über ein 20,5 cm tiefes Becken, in dem auch größere Teile mühelos gereinigt werden können. Zwei vorgebohrte Hahnlöcher erleichtern das Durchbohren mit einem Diamantbohrer, sodass die Spüle problemlos reversibel einbaubar ist – egal ob Becken rechts oder links. Das Modell kann durch farblich abgestimmte Küchenarmaturen ergänzt werden und ist mit einem 92 mm Drehexcenter und Überlauf im Becken ausgestattet.</p><p class=\"justify\">Die qualitativ hochwertigen Pyragranite-Einbauspülen weisen einen Naturgranitanteil von 80 % auf und bieten eine Vielzahl an Vorteilen. Sie sind hitzebeständig bis 200 °C, chemisch widerstandsfähig bei Einsatz von Reinigungsmitteln und überzeugen durch eine pflegeleichte, porenfreie glatte Oberfläche. Die robuste und strapazierfähige Bauweise garantiert eine lange Lebensdauer Ihrer Spüle. Die Maße der Spüle betragen 59 cm x 50 cm x 20,5 cm (B x T x H), während das Becken 34 cm x 42 cm x 20,5 cm misst.</p><p class=\"justify\">Zusammenfassend ist die Küchenfreund Einbauspüle GN 102 Granite Iron Grey eine erstklassige Wahl für Ihre Küche, wenn Sie Wert auf Design, Funktionalität und Langlebigkeit legen. Die Granitspüle wird Ihnen viele Jahre Freude bereiten und Ihrer Küche eine besondere Note verleihen.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "8446072",
+        "seo": {
+          "texts": [
+            {
+              "title": "Respekta Einbauspüle Mineralite Ohio 66 cm x 50 cm Weiß",
+              "text": "<p class=\"justify\">Die Marke Respekta ist bekannt für ihre qualitativ hochwertigen Produkte in der Küchenwelt. Die Einbauspüle Mineralite Ohio, 66 cm x 50 cm Weiß, ist dafür das beste Beispiel. Diese Spüle ist aus einem edlen, weißen Mineralite-Material gefertigt, das Ihrem Zuhause einen Hauch von Eleganz und Modernität verleiht. Durch ihre zeitlose Farbe passt sie perfekt in jede Küche, ob modern oder klassisch eingerichtet.</p><p class=\"justify\">Die Respekta Einbauspüle Mineralite Ohio besteht aus einem Verbundmaterial, das zu 60 % aus Mineralstoffanteil und Glasfasern und zu 40 % aus Kunstharz besteht. Dieses Material ist nicht nur äußerst langlebig, sondern auch sehr pflegeleicht. Die Oberfläche ist beständig gegen Flecken und chemische Substanzen, leicht zu reinigen und hitzebeständig bis 180 °C. Somit ist diese Spüle perfekt für den täglichen Gebrauch in der Küche geeignet.</p><p class=\"justify\">Die Spüle ist für Spülenunterschränke ab 60 cm Breite geeignet und sollte nicht am Ende einer Zeile platziert werden. Die Beckentiefe beträgt 205 mm und bietet somit genug Platz zum Abwaschen von Geschirr, Besteck und Töpfen. Im Lieferumfang der Respekta Einbauspüle Mineralite Ohio sind eine Ab- und Überlaufgarnitur sowie Fixierklemmen zum sofortigen Einbau enthalten. Der Ablauf verfügt über einen Siebkorb mit 90 mm Durchmesser.</p><p class=\"justify\">Mit der Respekta Einbauspüle Mineralite Ohio investieren Sie in eine stilvolle, praktische und pflegeleichte Spüle, die Ihren Küchenalltag erleichtert. Mit dieser hochwertigen Granitspüle sind Sie hervorragend ausgestattet und bereit, im Handumdrehen den Abwasch zu erledigen.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "4002077",
+        "seo": {
+          "texts": [
+            {
+              "title": "Eurodomo Einbauspüle Sonera 78 cm mit Stopfenventil Graphit",
+              "text": "<p class=\"justify\">Die Eurodomo Einbauspüle Sonera 78 cm mit Stopfenventil Graphit ist eine hochwertige und stilvolle Lösung für Ihre Küche. Als Teil der Granitspülen-Kategorie bietet dieses Produkt eine Reihe von Vorteilen, die es zu einer ausgezeichneten Wahl für Ihr Zuhause machen. Der moderne Graphitfarbton verleiht Ihrer Küche einen eleganten und zeitgemäßen Look, der zu vielen verschiedenen Einrichtungsstilen passt.</p><p class=\"justify\">Das Material dieser Spüle, Eurostone, basiert auf qualitativ hochwertigen Duroplasten, zu denen Glasfaser und Mineralien hinzugefügt wurden. Diese Kombination macht sie UV-beständig, kratzunempfindlich, schlagfest sowie kälte- und hitzeschockbeständig bis zu 260°C. Darüber hinaus ist Eurostone äußerst widerstandsfähig gegen haushaltsübliche Säuren und Laugen und sehr pflegeleicht.</p><p class=\"justify\">Die Eurodomo Einbauspüle Sonera verfügt über ein hochwertiges Siebkorb-Stopfenventil mit einem G 3 1/2 Anschluss und eignet sich zum Einbau in Unterschränken ab einer Breite von 45 cm. Mit ihren Außenmaßen von 78 cm x 50 cm und einer Beckengröße von 35 cm x 40 cm x 20 cm, bietet sie ausreichend Platz für die täglichen Küchenarbeiten. Der Arbeitsplattenausschnitt sollte dabei 76 cm x 48 cm betragen.</p><p class=\"justify\">Mit einer beeindruckenden Anzahl von 375 Kundenbewertungen und einer durchschnittlichen Bewertung von 5 Sternen ist die Eurodomo Einbauspüle Sonera 78 cm mit Stopfenventil Graphit eine ausgezeichnete Wahl für Ihr Zuhause. Bringen Sie mit dieser attraktiven und langlebigen Granitspüle sowohl Funktionalität als auch Stil in Ihre Küche.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "8042376",
+        "seo": {
+          "texts": [
+            {
+              "title": "Miló Einbauspüle Qubo 44 Granitverbundstoff Schwarz",
+              "text": "<p class=\"justify\">Die Miló Einbauspüle Qubo 44 Granitverbundstoff Schwarz ist die ideale Lösung für alle, die eine moderne und stilvolle Küchenspüle suchen. Mit ihrem edlen und zeitgemäßen Design passt sie perfekt zu jeder Einrichtung und wertet Ihre Küche optisch auf. Ob für den täglichen Abwasch oder zum Abgießen von Kochflüssigkeiten, die hochwertige Verarbeitung des Granitverbundstoffes sorgt dafür, dass Sie lange Freude an dieser Spüle haben werden.</p><p class=\"justify\">Die Spüle überzeugt durch ein modernes, edles Design mit glatter Oberfläche und einer eckigen Form. Die schicke Optik wird durch eine Farbgestaltung in Schwarz unterstrichen. Die Einbauspüle hat eine Höhe von 22 cm, eine Breite von 44 cm und eine Tiefe von 44 cm.</p><p class=\"justify\">Die Miló Qubo 44 besteht aus einem hochwertigen und langlebigen Granitverbundstoff, der zahlreiche Vorteile bietet. Das Material ist bruchsicher und hitzebeständig, sodass Sie auch heiße Töpfe ohne Bedenken in die Spüle stellen können. Außerdem zeichnet sich die Einbauspüle durch ihre pflegeleichten Eigenschaften aus, die Ihnen eine einfache Reinigung ermöglichen.</p><p class=\"justify\">Die Montage der Miló Einbauspüle Qubo 44 Granitverbundstoff Schwarz erfolgt flächenbündig von oben in den Arbeitsplatten-Ausschnitt, was für eine nahtlose Integration in Ihre Küche sorgt. Mit 333 Bewertungen und 5 Sternen ist diese Spüle ein echter Gewinner für Ihre Küche. Verleihen Sie Ihrer Küche das gewisse Etwas mit der Miló Einbauspüle Qubo 44 Granitverbundstoff Schwarz.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "2238418",
+        "seo": {
+          "texts": [
+            {
+              "title": "Eurodomo Einbauspüle Prima 45 Granitverbundwerkstoff 86 cm x 43,5 cm Graphit",
+              "text": "<p class=\"justify\">Die Eurodomo Einbauspüle Prima 45 Granitverbundwerkstoff in Graphit ist eine stilvolle und praktische Ergänzung für jede moderne Küche. Sie besteht aus einem großen Becken sowie einer geriffelten Abtropffläche, die sich perfekt zum Abstellen von gespültem Geschirr oder zum Ablegen von frisch gewaschenem Obst und Gemüse eignet. Die eckige Form der Spüle unterstreicht das elegante Design der Serie und fügt sich harmonisch in jede Küche ein.</p><p class=\"justify\">Der edle Granit-Verbundwerkstoff Eurostone ist ein hochwertiges Material, das auf Duroplasten basiert und mit Glasfaser und Mineralien angereichert ist. Dadurch erhält die Spüle eine stabile und elastische Oberfläche, die strapazierfähig, kälte- und hitzeschockbeständig, weitgehend kratzunempfindlich, bruch- sowie schlagfest ist. Außerdem ist sie äußerst widerstandsfähig gegenüber haushaltsüblichen Säuren und Laugen. Die pflegeleichte Oberfläche lässt sich nach getaner Arbeit einfach abwischen und steht sofort wieder für den nächsten Einsatz bereit.</p><p class=\"justify\">Die Einbauspüle Prima 45 ist reversibel, das bedeutet, sie kann sowohl links als auch rechts montiert werden. Das macht sie besonders flexibel und ermöglicht es Ihnen, die optimale Positionierung in Ihrer Küche zu wählen. Sie ist passend für Unterschränke ab einer Breite von 45 cm. Zudem ist ein praktisches Siebkorb-Stopfenventil im Lieferumfang enthalten, das Ihren Abfluss vor groben Speiseresten schützt, sowie eine Ab- und Überlaufgarnitur.</p><p class=\"justify\">Zusammengefasst bietet die Eurodomo Einbauspüle Prima 45 Granitverbundwerkstoff 86 cm x 43,5 cm Graphit ein elegantes Design und hervorragende Materialqualität, die sie zu einem idealen Kandidaten für Ihre Küche macht. Mit dieser Spüle setzen Sie auf eine robuste, langlebige Lösung, die Ihnen den täglichen Abwasch erleichtert und Ihrer Küche eine moderne, ansprechende Optik verleiht.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "7842982",
+        "seo": {
+          "texts": [
+            {
+              "title": "Respekta by Schock Granit-Einbauspüle Memphis 98 cm x 50 cm Betongrau",
+              "text": "<p class=\"justify\">Die Respekta by Schock Granit-Einbauspüle Memphis 98 cm x 50 cm Betongrau ist eine hochwertige und funktionale Ergänzung für jede moderne Küche. Mit ihrem edlen Design und einer Größe von 98 cm x 50 cm bietet sie nicht nur genügend Platz zum Spülen und Reinigen von Geschirr, sondern fügt sich auch harmonisch in jede Kücheneinrichtung ein. Die Granitspüle gehört zur Kategorie der Granitspülen, die sowohl durch ihre ansprechende Optik als auch durch ihre Langlebigkeit und Robustheit überzeugen.</p><p class=\"justify\">Das Material der Respekta Memphis Spülenkollektion besteht aus 80 % Quarzsand, 5 % Additiven und 15 % hochqualitativem Kunstharz – ein Verbundmaterial, das nicht nur besonders strapazierfähig, sondern auch hitzebeständig, kratzfest und fleckenresistent ist. Dadurch bleibt die Granit-Einbauspüle der Serie Memphis auch bei häufiger Nutzung über viele Jahre hinweg ein verlässlicher Partner in der Küche und behält ihre ansprechende Optik bei.</p><p class=\"justify\">Der Einbau ist dank der im Lieferumfang enthaltenen Fixierklemmen und des Drehexcenters schnell und unkompliziert möglich. Die Spüle verfügt über ein Becken mit einer Tiefe von 20,3 cm und ein zusätzliches Restbecken, das zum Abstellen von frischem Obst oder Gemüse dient. Die Spüle ist in den Farben Betongrau, Weiß, Schwarz und Sandbeige erhältlich und passt somit perfekt in jede Kücheneinrichtung.</p><p class=\"justify\">Die Respekta by Schock Granit-Einbauspüle Memphis 98 cm x 50 cm Betongrau überzeugt nicht nur durch ihre Optik und Funktionalität, sondern auch durch ihre positive Bewertungen und eine durchschnittliche Kundenbewertung von 4 Sternen. Ein weiteres Argument für den Kauf dieser Spüle ist der faire Preis von 259,99 Euro. Insgesamt bietet die Respekta by Schock Granit-Einbauspüle Memphis 98 cm x 50 cm Betongrau ein gutes Preis-Leistungs-Verhältnis und eine hervorragende Ergänzung für jede Küche.</p>"
+            }
+          ]
         }
       }
     ]
@@ -118,8 +184,8 @@
         "slug": "sporthosen",
         "name": "Sporthosen",
         "seo": {
-          "title": "Sporthosen g\u00fcnstig kaufen",
-          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "title": "Sporthosen günstig kaufen",
+          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
           "robots": "index, follow",
           "texts": [
             {
@@ -136,16 +202,16 @@
     ]
   },
   "brandSeo": {
-    "defaultTitle": "Sp\u00fclen & Sp\u00fclbecken von $HERSTELLER",
-    "defaultMetaDescription": "In unserem Sortiment bieten wir dir eine gro\u00dfe Auswahl an hochwertigen Sp\u00fclen und Sp\u00fclbecken von Top Marken wie zum Beispiel $HERSTELLER.",
+    "defaultTitle": "Spülen & Spülbecken von $HERSTELLER",
+    "defaultMetaDescription": "In unserem Sortiment bieten wir dir eine große Auswahl an hochwertigen Spülen und Spülbecken von Top Marken wie zum Beispiel $HERSTELLER.",
     "defaultRobots": "index, follow",
     "brands": [
       {
         "key": "palm",
         "name": "Palm",
         "seo": {
-          "title": "Produkte von Palm g\u00fcnstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "title": "Produkte von Palm günstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
           "robots": "index, follow"
         }
       }
@@ -155,19 +221,19 @@
     {
       "title": "Start",
       "linkTo": "/",
-      "linkTitle": "Sp\u00fclen & Sp\u00fclbecken",
+      "linkTitle": "Spülen & Spülbecken",
       "publish": true
     },
     {
       "title": "Shop",
       "linkTo": "/shop/",
-      "linkTitle": "Sp\u00fclen & Sp\u00fclbecken Shop",
+      "linkTitle": "Spülen & Spülbecken Shop",
       "publish": true
     },
     {
       "title": "Marken",
       "linkTo": "/marken/",
-      "linkTitle": "Sp\u00fclen & Sp\u00fclbecken Marken",
+      "linkTitle": "Spülen & Spülbecken Marken",
       "publish": true
     },
     {
